@@ -1,0 +1,10 @@
+[package]
+name = "extra_test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mirai_j4rs = { git = "https://github.com/worksoup/mirai_j4rs.git" }
+j4rs = "0.17"
